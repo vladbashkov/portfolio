@@ -561,12 +561,12 @@ a {
 
 	.nav-link:hover {
 	letter-spacing: 1px;
-	transform: scale(1.2) translateX(10px);
+	transform: scale(1.3) translateX(10px);
 	text-shadow: 3px 3px 1px #c02f27;
 	}
 
 	.navigation {
-		width: 50%;
+		width: 70%;
 	}
 
 	.container {
@@ -599,12 +599,12 @@ a {
 
 	.nav-link:hover {
 	letter-spacing: 1px;
-	transform: scale(1.2) translateX(10px);
+	transform: scale(1.3) translateX(10px);
 	text-shadow: 3px 3px 1px #c02f27;
 	}
 
 	.navigation {
-		width: 50%;
+		width: 70%;
 	}
 
 	.container {
